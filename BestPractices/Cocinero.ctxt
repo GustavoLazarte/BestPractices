@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Cocinero
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Microondas\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Cocinero()
+comment2.params=
+comment2.target=void\ prepararSopa()
+comment3.params=
+comment3.target=void\ prepararSegundo()
+comment4.params=
+comment4.target=void\ prepararDieta()
+comment5.params=
+comment5.target=void\ prepararEspecial()
+comment6.params=costo
+comment6.target=void\ desgastarEnergia(int)
+comment7.params=costo
+comment7.target=boolean\ tieneEnergia(int)
+numComments=8

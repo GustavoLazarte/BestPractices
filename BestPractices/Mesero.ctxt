@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Mesero
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Invoker\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=ordenes
+comment1.target=Mesero(java.util.ArrayList)
+comment2.params=
+comment2.target=Mesero()
+comment3.params=nuevaOrden
+comment3.target=void\ ingresarNuevaOrden(Orden)
+numComments=4
